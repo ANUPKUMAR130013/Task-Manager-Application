@@ -74,7 +74,7 @@ Task-Manager/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/ANUPKUMAR130013/Task-Manager-Application
 cd task-manager
 ```
 
